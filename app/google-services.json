@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587925004053",
+    "project_id": "database-fce58",
+    "storage_bucket": "database-fce58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587925004053:android:9819f29249b964d59bd31c",
+        "android_client_info": {
+          "package_name": "com.example.befit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587925004053-53j7kfiv6f24tvjoe5bk9fmruvlcu0cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLesVopG4DzpcBsEC2RGTKRWBjqGDX-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587925004053-53j7kfiv6f24tvjoe5bk9fmruvlcu0cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

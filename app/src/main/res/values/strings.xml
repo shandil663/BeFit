@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BeFit</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+    <string name="not_registered_yet_sign_up_now">Not Registered yet? Sign Up Now</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="already_registered_login_now">Already Registered ? Login Now.</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="explore_yourself">Explore Yourself</string>
+    <string name="height">Height</string>
+    <string name="_150">150</string>
+    <string name="cm">cm</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="logout">LogOut</string>
+    <string name="create_this_page_for_testing_purpose">Other Setting Options are Coming Soon.</string>
+    <string name="weight">Weight</string>
+    <string name="_50">50</string>
+    <string name="kg">Kg</string>
+    <string name="age">Age</string>
+    <string name="_19">19</string>
+    <string name="yr">Yr.</string>
+    <string name="befit">BeFit</string>
+    <string name="gender">Gender</string>
+    <string name="_60">60</string>
+    <string name="your_bmi_category_is">Your BMI category is</string>
+    <string name="recalculate_bmi">Recalculate BMI</string>
+    <string name="testing">Testing</string>
+    <string name="already_clear_about_your_goals">Already Clear about your Goals!</string>
+    <string name="befit1">BeFit</string>
+    <string name="want_to_explore">Want to Explore!</string>
+    <string name="gain_weight">Gain Weight</string>
+    <string name="choose_goal">Choose Goal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
